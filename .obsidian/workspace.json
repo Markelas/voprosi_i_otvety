@@ -1,0 +1,224 @@
+{
+  "main": {
+    "id": "5f8d19f33886fe4a",
+    "type": "split",
+    "children": [
+      {
+        "id": "5bf1e2399ad86f94",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b11990ecfb49cb17",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JavaScript/Рекурсия.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Рекурсия"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "69244c675784c73f",
+    "type": "split",
+    "children": [
+      {
+        "id": "eb071a1dbe3b6bac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4849b1abe1a4f923",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "648a866968ec7928",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "84768ecf0512c281",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 376.51103591918945
+  },
+  "right": {
+    "id": "0961fb0f40ac5790",
+    "type": "split",
+    "children": [
+      {
+        "id": "a3ee323757e17902",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e03ef70305a35596",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Tasks/Event Loop/Задачи на Event Loop.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Задачи на Event Loop"
+            }
+          },
+          {
+            "id": "1f11866c39ce9c59",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Tasks/Event Loop/Задачи на Event Loop.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Задачи на Event Loop"
+            }
+          },
+          {
+            "id": "819e27add30f83bb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "fc66f47083e719d5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Tasks/Event Loop/Задачи на Event Loop.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура Задачи на Event Loop"
+            }
+          },
+          {
+            "id": "0590e7a6f0e80030",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "b11990ecfb49cb17",
+  "lastOpenFiles": [
+    "JavaScript/Сборщик мусора.md",
+    "JavaScript/Сложность алгоритмов.md",
+    "JavaScript/Унарные операторы.md",
+    "JavaScript/Разница for…of и for…in.md",
+    "JavaScript/Разница между null и undefined.md",
+    "JavaScript/Глубокое и поверхностное копирование.md",
+    "JavaScript/Деструктуризация.md",
+    "HTML/Что такое атрибуты в HTML?.md",
+    "HTML/Что такое семантическая разметка?.md",
+    "Architecture/Вопросы на собеседовании.md",
+    "CSS/Разница между em, rem, %, vh, vw..md",
+    "CSS/Приоритет CSS классов.md",
+    "CSS/Комбинированные селектороры.md",
+    "CSS/Какие есть способы центровки блока по горизонтали и вертикали?.md",
+    "HTML/Что такое DOCTYPE и зачем он нужен?.md",
+    "HTML/Что делают метатеги <meta charset=\"UTF-8\">, <meta viewport>, <meta http-equiv>?.md",
+    "HTML/Для чего нужны data-* атрибуты?.md",
+    "HTML/В чем разница <script>, <script async> и <script defer>?.md",
+    "HTML/Блочные и строчные элементы..md",
+    "HTML/Атрибуты <meta> description, keywords, robots?.md",
+    "HTML/<title> и <link rel=\"canonical\">?.md",
+    "JavaScript/Object.freeze, Object.seal и Object.preventExtensions.md",
+    "JavaScript/Варианты отмены обработчиков событий.md",
+    "JavaScript/Какие есть типы данных.md",
+    "JavaScript/Области видимости.md",
+    "Tasks/Event Loop/Задачи на Event Loop.md",
+    "Tasks/Полифилы",
+    "Tasks/React",
+    "Tasks/Debounce и Throttle",
+    "Tasks/Deep copy и Deep freeze",
+    "Tasks/This",
+    "Tasks/Async Await",
+    "Tasks/Promise",
+    "Tasks/Замыкания и область видимости",
+    "Tasks/Event Loop",
+    "Tasks/Стек",
+    "JavaScript/_resources/Без заголовка.png"
+  ]
+}

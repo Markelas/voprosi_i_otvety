@@ -1,0 +1,85 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "🧠",
+      "LiBrain",
+      "LiSignal",
+      "LiFileType",
+      "LiTypeOutline"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "HTML": {
+    "iconName": "LiCode2",
+    "iconColor": "#ed900c"
+  },
+  "CSS": {
+    "iconName": "LiBrush",
+    "iconColor": "#959bf4"
+  },
+  "JavaScript": {
+    "iconName": "LiScrollText",
+    "iconColor": "#c2a824"
+  },
+  "JavaScript/Рекурсия.md": "LiArrowLeftRight",
+  "JavaScript/Сборщик мусора.md": "LiTrash",
+  "JavaScript/Сложность алгоритмов.md": "LiArrowUp10",
+  "JavaScript/Унарные операторы.md": "LiPlus",
+  "JavaScript/Что такое прототип.md": "LiSnapToObject",
+  "JavaScript/Event Loop.md": "LiRecycle",
+  "JavaScript/Hoisting (поднятие).md": "LiMoveUp",
+  "JavaScript/async и await.md": "LiClock2",
+  "JavaScript/AbortController - отмена запроса.md": "LiShieldClose",
+  "JavaScript/Promise.md": "LiArrowUpRightFromCircle",
+  "JavaScript/Object.freeze, Object.seal и Object.preventExtensions.md": "LiLock",
+  "JavaScript/Map,  Set,  WeakMap,  WeakSet.md": "LiMap",
+  "JavaScript/Что такое стек и куча.md": "LiFileStack",
+  "JavaScript/Отличие Spread и Rest операторов, arguments.md": "LiUndoDot",
+  "JavaScript/Области видимости.md": "LiEye",
+  "JavaScript/Деструктуризация.md": "LiBrackets",
+  "JavaScript/Какие есть типы данных.md": "LiDatabase",
+  "JavaScript/Глубокое и поверхностное копирование.md": "LiCopyPlus",
+  "JavaScript/Варианты отмены обработчиков событий.md": "LiPanelLeftClose",
+  "Architecture": {
+    "iconName": "LiBrickWall",
+    "iconColor": "#ff4d4d"
+  },
+  "React": {
+    "iconName": "LiAtom",
+    "iconColor": "#24bdff"
+  },
+  "TypeScript": {
+    "iconName": "LiFileType",
+    "iconColor": "#4258ff"
+  },
+  "System": {
+    "iconName": "LiSignal",
+    "iconColor": "#5ec841"
+  },
+  "Tasks": "🧠"
+}

@@ -1,0 +1,1 @@
+`description` — краткое описание страницы, используется поисковыми системами. keywords — ключевые слова (сейчас мало используется). robots — указывает, индексировать страницу или нет (index, noindex, follow, nofollow). Например, `<meta name="robots" content="index, follow">`

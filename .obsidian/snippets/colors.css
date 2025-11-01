@@ -1,0 +1,32 @@
+/* Цвета текста */
+.red { color: #ff6b6b; }
+.blue { color: #45b7d1; }
+.green { color: #2ed573; }
+.yellow { color: rgb(198, 165, 1); }
+.orange { color: #ffa502; }
+.purple { color: #a55eea; }
+.pink { color: #fd79a8; }
+.gray { color: #a4b0be; }
+
+/* Фоновые цвета */
+.bg-red { background-color: #ff6b6b; color: white; }
+.bg-blue { background-color: #45b7d1; color: white; }
+.bg-green { background-color: #2ed573; color: white; }
+.bg-yellow { background-color: #ffd700; color: black; }
+.bg-orange { background-color: #ffa502; color: white; }
+
+/* Выделение текста */
+.highlight { background-color: #fff740; color: black; padding: 2px 4px; }
+.important { background-color: #ff6b6b; color: white; padding: 2px 6px; border-radius: 3px; }
+
+/* Градиентный текст */
+.gradient-text {
+    background: linear-gradient(45deg, #ff6b6b, #a55eea);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: bold;
+}
+
+body {
+    --file-line-width: auto;
+}

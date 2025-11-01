@@ -1,0 +1,12 @@
+{
+  "theme": "moonstone",
+  "baseFontSize": 18,
+  "baseFontSizeAction": true,
+  "nativeMenus": true,
+  "translucency": false,
+  "enabledCssSnippets": [
+    "colors"
+  ],
+  "cssTheme": "Minimal",
+  "accentColor": ""
+}
