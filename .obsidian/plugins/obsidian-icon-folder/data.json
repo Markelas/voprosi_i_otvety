@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "🧠",
-      "LiBrain",
-      "LiSignal",
-      "LiFileType",
-      "LiTypeOutline"
+      "LiQuestionMarkGlyph",
+      "LiGlobe",
+      "LiHouse",
+      "LiBuilding",
+      "🧠"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -50,7 +50,6 @@
   "JavaScript/Сборщик мусора.md": "LiTrash",
   "JavaScript/Сложность алгоритмов.md": "LiArrowUp10",
   "JavaScript/Унарные операторы.md": "LiPlus",
-  "JavaScript/Что такое прототип.md": "LiSnapToObject",
   "JavaScript/Event Loop.md": "LiRecycle",
   "JavaScript/Hoisting (поднятие).md": "LiMoveUp",
   "JavaScript/async и await.md": "LiClock2",
@@ -81,5 +80,11 @@
     "iconName": "LiSignal",
     "iconColor": "#5ec841"
   },
-  "Tasks": "🧠"
+  "Tasks": "🧠",
+  "JavaScript/Class и Constructor.md": "LiBuilding",
+  "JavaScript/DOM и BOM/DOM (Document Object Model).md": "LiHouse",
+  "JavaScript/DOM и BOM/BOM (Browser Object Model).md": "LiGlobe",
+  "JavaScript/DOM и BOM": "LiHouse",
+  "JavaScript/DOM и BOM/Вопросы, которые часто задают на собеседовании.md": "LiQuestionMarkGlyph",
+  "JavaScript/Прототип/Что такое прототип.md": "LiSnapToObject"
 }

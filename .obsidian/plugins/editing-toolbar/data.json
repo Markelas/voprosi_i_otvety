@@ -1,6 +1,6 @@
 {
   "lastVersion": "3.1.18",
-  "aestheticStyle": "default",
+  "aestheticStyle": "custom",
   "positionStyle": "top",
   "menuCommands": [
     {
@@ -302,7 +302,7 @@
   "cMenuBottomValue": 4.25,
   "cMenuNumRows": 12,
   "cMenuWidth": 610,
-  "cMenuFontColor": "#b2a2c7",
+  "cMenuFontColor": "#4f6128",
   "cMenuBackgroundColor": "rgba(74, 82, 199, 0.2)",
   "autohide": false,
   "Iscentered": false,
@@ -315,7 +315,7 @@
   "custom_fc2": "#DE7802",
   "custom_fc3": "#245BDB",
   "custom_fc4": "#6425D0",
-  "custom_fc5": "#646A73",
+  "custom_fc5": "#D242E2",
   "isLoadOnMobile": false,
   "horizontalPosition": 0,
   "verticalPosition": 0,
