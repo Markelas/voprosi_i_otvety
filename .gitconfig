@@ -1,0 +1,5 @@
+# The contents of this file are included only for GitLab.com URLs
+[includeIf "hasconfig:remote.*.url:https://gitlab.com/**"]
+
+# Edit this line to point to your alternative configuration file
+path = ~/.gitconfig-gitlab

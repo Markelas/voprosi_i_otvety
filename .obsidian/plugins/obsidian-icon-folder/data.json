@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiQuestionMarkGlyph",
-      "LiGlobe",
-      "LiHouse",
-      "LiBuilding",
-      "🧠"
+      "LiCarrot",
+      "LiEye",
+      "👀",
+      "LiAlarmCheck",
+      "LiExperiment"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -86,5 +86,9 @@
   "JavaScript/DOM и BOM/BOM (Browser Object Model).md": "LiGlobe",
   "JavaScript/DOM и BOM": "LiHouse",
   "JavaScript/DOM и BOM/Вопросы, которые часто задают на собеседовании.md": "LiQuestionMarkGlyph",
-  "JavaScript/Прототип/Что такое прототип.md": "LiSnapToObject"
+  "JavaScript/Прототип и классы/Прототипы/Что такое прототип.md": "LiSnapToObject",
+  "JavaScript/DOM и BOM/Основные методы для работы с DOM.md": "LiExperiment",
+  "JavaScript/DOM и BOM/События в DOM.md": "LiAlarmCheck",
+  "JavaScript/DOM и BOM/Mutation Observer.md": "LiEye",
+  "JavaScript/Каррирование.md": "LiCarrot"
 }

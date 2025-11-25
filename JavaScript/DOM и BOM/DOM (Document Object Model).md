@@ -95,29 +95,6 @@ console.log(h1.firstChild.textContent); // "Hello"
         
 
 ---
-### 🧠 Основные методы для работы с DOM
-
-|Категория|Метод|Назначение / Описание|Пример|
-|---|---|---|---|
-|**Поиск элементов**|`getElementById(id)`|Возвращает элемент по ID|`document.getElementById('header')`|
-||`querySelector(selector)`|Возвращает **первый** элемент по CSS-селектору|`document.querySelector('.item')`|
-||`querySelectorAll(selector)`|Возвращает **NodeList** (все элементы по селектору)|`document.querySelectorAll('li')`|
-|**Создание / добавление**|`createElement(tag)`|Создаёт новый элемент|`document.createElement('div')`|
-||`append(child)`|Добавляет элемент в конец|`parent.append(child)`|
-||`prepend(child)`|Добавляет элемент в начало|`parent.prepend(child)`|
-||`insertBefore(new, ref)`|Вставляет элемент перед другим|`parent.insertBefore(newEl, refEl)`|
-|**Удаление / замена**|`remove()`|Удаляет элемент|`element.remove()`|
-||`replaceWith(new)`|Заменяет элемент|`old.replaceWith(newEl)`|
-|**Свойства содержимого**|`innerHTML`|Чтение / замена HTML внутри|`el.innerHTML = '<p>Hi</p>'`|
-||`textContent`|Чтение / замена текста|`el.textContent = 'Hello'`|
-|**Работа с атрибутами**|`getAttribute(name)`|Получает значение атрибута|`el.getAttribute('href')`|
-||`setAttribute(name, value)`|Устанавливает атрибут|`el.setAttribute('id', 'main')`|
-||`removeAttribute(name)`|Удаляет атрибут|`el.removeAttribute('disabled')`|
-|**Классы и стили**|`classList.add/remove/toggle/contains()`|Управление классами|`el.classList.add('active')`|
-||`style.property`|Изменение inline-стилей|`el.style.color = 'red'`|
-|**Навигация по дереву**|`parentNode`, `children`, `nextSibling`, `previousSibling`|Доступ к соседним элементам|`el.parentNode`|
-|**Создание фрагментов**|`document.createDocumentFragment()`|Создание временного контейнера|Позволяет группировать изменения|
-
 ### 🤔 **Что такое reflow и repaint?**
 
 ⚙️<font color="#8064a2"> **Reflow (пересчёт рендера, layout)**</font>
