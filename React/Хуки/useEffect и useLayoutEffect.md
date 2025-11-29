@@ -53,3 +53,21 @@
 ### 💡 Рекомендация
 
 **Используй `useEffect` по умолчанию**, и переходи на `useLayoutEffect` только если нужно измерить DOM или изменить его до отрисовки.
+
+Запрос на сервер при изменении пропсов
+
+```jsx
+function DataFetcher({ url }) {
+  const [data, setData] = useState(null);
+  useEffect(() => {
+    const fetchData = async () => {
+      const response = await fetch(url);
+      const result = await response.json();
+      setData(result);
+    };
+    fetchData();
+  }, [url]); // Повторный вызов эффекта при изменении URL
+  if (!data) return <p>Загрузка...</p>;
+  return <div>{JSON.stringify(data)}</div>;
+}
+```

@@ -57,3 +57,38 @@ const [data, setData] = useState(() => {
 - Не вызывай `setState` напрямую в теле компонента (вызовет бесконечный цикл)
 - Обновления состояния асинхронные
 - Для объектов/массивов используй функциональное обновление или создавай новый объект
+
+Управление состоянием с объектом в useState
+
+```jsx
+import React, { useState } from 'react';
+function UserForm() {
+  const [user, setUser] = useState({ name: '', email: '' });
+  const handleInputChange = (e) => {
+    const { name, value } = e.target;
+    setUser((prev) => ({ ...prev, [name]: value }));
+  };
+  return (
+    <div>
+      <input
+        type="text"
+        name="name"
+        placeholder="Имя"
+        value={user.name}
+        onChange={handleInputChange}
+      />
+      <input
+        type="email"
+        name="email"
+        placeholder="Email"
+        value={user.email}
+        onChange={handleInputChange}
+      />
+      <p>Имя: {user.name}</p>
+      <p>Email: {user.email}</p>
+    </div>
+  );
+}
+export default UserForm;
+    
+```

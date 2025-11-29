@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiCarrot",
-      "LiEye",
-      "👀",
-      "LiAlarmCheck",
-      "LiExperiment"
+      "LiPuzzle",
+      "LiTreePine",
+      "LiLink",
+      "LiChevronUpCircle",
+      "LiSnail"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -90,5 +90,13 @@
   "JavaScript/DOM и BOM/Основные методы для работы с DOM.md": "LiExperiment",
   "JavaScript/DOM и BOM/События в DOM.md": "LiAlarmCheck",
   "JavaScript/DOM и BOM/Mutation Observer.md": "LiEye",
-  "JavaScript/Каррирование.md": "LiCarrot"
+  "JavaScript/Каррирование.md": "LiCarrot",
+  "React/Методы жизненного цикла.md": "🌀",
+  "React/React под капотом.md": "LiWrench",
+  "React/Redux.md": "LiWarehouse",
+  "React/Что такое key в списках React.md": "LiKey",
+  "React/Что такое lazy loading и React.lazy.md": "LiSnail",
+  "React/Контролируемые и неконтролируемые компоненты.md": "LiPuzzle",
+  "React/Как передать ref из родительского в дочерний компонент.md": "LiLink",
+  "React/Virtual DOM в React.md": "LiTreePine"
 }

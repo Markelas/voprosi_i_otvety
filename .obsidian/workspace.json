@@ -55,16 +55,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tasks/Бинарный поиск/Базовый бинарный поиск.md",
+                "file": "React/Хуки/useState.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Базовый бинарный поиск"
+              "title": "useState"
+            }
+          },
+          {
+            "id": "89cbcacd09e9ffd4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "React/Хуки/Все хуки.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Все хуки"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -96,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "стек и куч",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -224,35 +238,38 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "300c94c20398fe5f",
+  "active": "89cbcacd09e9ffd4",
   "lastOpenFiles": [
-    "Tasks/Async Await/Polling с условием остановки.md",
-    "Tasks/Debounce и Throttle/Debounce для асинхронной функции.md",
-    "Tasks/Promise/Кеш для промисов cachedFetch.md",
-    "Tasks/Promise/Race с fallback fetchWithFallback.md",
-    "Tasks/Promise/Timeout для промиса promiseWithTimeout.md",
-    "Tasks/Promise/Ограничение параллельности promiseLimit.md",
-    "Tasks/Promise/Последовательные запросы fetchSequential.md",
-    "Tasks/Promise/Параллельные запросы fetchAll.md",
-    "Tasks/Promise/Retry механизм fetchWithRetry.md",
-    "Tasks/Promise/Базовый промис delay.md",
-    "Tasks/Бинарный поиск/Все задачи с решениями.js",
-    "Tasks/Бинарный поиск/Количество повторений.md",
-    "Tasks/Бинарный поиск/Find Ceiling.md",
-    "Tasks/Бинарный поиск/Повёрнутый массив.md",
-    "Tasks/Бинарный поиск/Вставка элемента.md",
-    "Tasks/Бинарный поиск/Базовый бинарный поиск.md",
-    "React/Что такое Props.md",
+    "React/_resourses/Pasted image 20251129162905.png",
+    "React/Хуки/Все хуки.md",
+    "React/_resourses",
+    "React/Контролируемые и неконтролируемые компоненты.md",
+    "React/Хуки/useRef.md",
+    "React/Хуки/useState.md",
+    "React/Как передать ref из родительского в дочерний компонент.md",
+    "React/Хуки/useEffect и useLayoutEffect.md",
+    "React/Методы жизненного цикла.md",
+    "React/Virtual DOM в React.md",
+    "React/Плюсы и минусы React.md",
+    "React/Что такое lazy loading и React.lazy.md",
+    "React/React.memo.md",
+    "React/Redux.md",
+    "React/React под капотом.md",
+    "React/Что такое JSX.md",
     "React/События в React.md",
+    "React/Батчинг в React.md",
+    "React/Хуки/Отличия useCallback и useMemo.md",
+    "React/Что такое мемоизация.md",
+    "React/React.flushSync().md",
+    "React/Хуки",
+    "React/Portals.md",
+    "React/Props.md",
+    "JavaScript/Что такое стек и куча.md",
+    "JavaScript/_resources/Screenshot at Nov 01 15-01-16.png",
+    "React/useEffect и аналогия методов классового компонента.md",
     "System/HTTP заголовки.md",
     "System/HTTP и HTTPS.md",
-    "Tasks/Async Await/Задачи на async await.md",
-    "JavaScript/Event Loop.md",
-    "JavaScript/Что такое асинхронность.md",
-    "React/Что такое key в списках React.md",
-    "Tasks/React/Поиск героев с debounce.md",
-    "Tasks/Promise/Цепочки Promise.md",
-    "Tasks/Promise/Промисифицировать функцию.md",
+    "Tasks/Бинарный поиск/Все задачи с решениями.js",
     "Tasks/Рекурсия",
     "Tasks/Каррирование",
     "JavaScript/Прототип и классы/Прототипы",
@@ -260,8 +277,6 @@
     "JavaScript/Прототип и классы",
     "JavaScript/DOM и BOM",
     "Tasks/Полифилы",
-    "Tasks/React",
-    "Tasks/Debounce и Throttle",
     "JavaScript/_resources/Без заголовка.png"
   ]
 }
