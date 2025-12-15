@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiBrain",
+      "LiArrowUpSquare",
+      "LiDistributeSpaceHorizontal",
       "LiPuzzle",
-      "LiTreePine",
-      "LiLink",
-      "LiChevronUpCircle",
-      "LiSnail"
+      "LiTreePine"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -98,5 +98,8 @@
   "React/Что такое lazy loading и React.lazy.md": "LiSnail",
   "React/Контролируемые и неконтролируемые компоненты.md": "LiPuzzle",
   "React/Как передать ref из родительского в дочерний компонент.md": "LiLink",
-  "React/Virtual DOM в React.md": "LiTreePine"
+  "React/Virtual DOM в React.md": "LiTreePine",
+  "React/Что такое Portals.md": "LiDistributeSpaceHorizontal",
+  "React/Что такое HOC.md": "LiArrowUpSquare",
+  "React/Что такое мемоизация.md": "LiBrain"
 }

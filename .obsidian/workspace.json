@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System/ООП простыми словами.md",
+                "file": "React/Способы оптимизации рендеров.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ООП простыми словами"
+              "title": "Способы оптимизации рендеров"
             }
           },
           {
@@ -77,8 +77,7 @@
               "title": "Все хуки"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "стек и куч",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -238,37 +237,39 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "89cbcacd09e9ffd4",
+  "active": "6b83d2a67b91edc6",
   "lastOpenFiles": [
-    "React/_resourses/Pasted image 20251129162905.png",
+    "React/Паттерны React.md",
+    "React/События в React.md",
+    "React/React.flushSync().md",
+    "React/Способы оптимизации рендеров.md",
+    "React/Что такое JSX.md",
+    "React/Функциональные и классовые компоненты.md",
+    "React/Что такое мемоизация.md",
+    "React/Что такое HOC.md",
+    "React/Что такое Portals.md",
+    "React/Portals.md",
+    "Tasks/React/Кастомные хуки/useWindowSize.md",
+    "Tasks/React/Кастомные хуки/useLocalStorage.md",
+    "Tasks/React/Кастомные хуки/useDebounce.md",
+    "Tasks/React/Поиск героев с debounce.md",
+    "Tasks/React/Кастомные хуки",
     "React/Хуки/Все хуки.md",
+    "React/Virtual DOM в React.md",
+    "React/Плюсы и минусы React.md",
+    "JavaScript/Map,  Set,  WeakMap,  WeakSet.md",
+    "JavaScript/Что такое замыкание.md",
+    "Architecture/SOLID принципы.md",
+    "React/Методы жизненного цикла.md",
+    "React/Процесс render в React.md",
+    "System/ООП простыми словами.md",
+    "React/_resourses/Pasted image 20251129162905.png",
     "React/_resourses",
     "React/Контролируемые и неконтролируемые компоненты.md",
     "React/Хуки/useRef.md",
     "React/Хуки/useState.md",
-    "React/Как передать ref из родительского в дочерний компонент.md",
-    "React/Хуки/useEffect и useLayoutEffect.md",
-    "React/Методы жизненного цикла.md",
-    "React/Virtual DOM в React.md",
-    "React/Плюсы и минусы React.md",
-    "React/Что такое lazy loading и React.lazy.md",
-    "React/React.memo.md",
-    "React/Redux.md",
-    "React/React под капотом.md",
-    "React/Что такое JSX.md",
-    "React/События в React.md",
-    "React/Батчинг в React.md",
-    "React/Хуки/Отличия useCallback и useMemo.md",
-    "React/Что такое мемоизация.md",
-    "React/React.flushSync().md",
     "React/Хуки",
-    "React/Portals.md",
-    "React/Props.md",
-    "JavaScript/Что такое стек и куча.md",
     "JavaScript/_resources/Screenshot at Nov 01 15-01-16.png",
-    "React/useEffect и аналогия методов классового компонента.md",
-    "System/HTTP заголовки.md",
-    "System/HTTP и HTTPS.md",
     "Tasks/Бинарный поиск/Все задачи с решениями.js",
     "Tasks/Рекурсия",
     "Tasks/Каррирование",
@@ -276,7 +277,6 @@
     "JavaScript/Прототип и классы/Классы",
     "JavaScript/Прототип и классы",
     "JavaScript/DOM и BOM",
-    "Tasks/Полифилы",
     "JavaScript/_resources/Без заголовка.png"
   ]
 }
