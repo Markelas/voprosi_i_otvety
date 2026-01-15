@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "⚛",
+      "LiRoute",
       "LiBrain",
       "LiArrowUpSquare",
-      "LiDistributeSpaceHorizontal",
-      "LiPuzzle",
-      "LiTreePine"
+      "LiDistributeSpaceHorizontal"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -101,5 +101,7 @@
   "React/Virtual DOM в React.md": "LiTreePine",
   "React/Что такое Portals.md": "LiDistributeSpaceHorizontal",
   "React/Что такое HOC.md": "LiArrowUpSquare",
-  "React/Что такое мемоизация.md": "LiBrain"
+  "React/Что такое мемоизация.md": "LiBrain",
+  "React/React Router": "LiRoute",
+  "Redux": "⚛"
 }
