@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiUploadCloud",
       "⚛",
       "LiRoute",
       "LiBrain",
-      "LiArrowUpSquare",
-      "LiDistributeSpaceHorizontal"
+      "LiArrowUpSquare"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -103,5 +103,6 @@
   "React/Что такое HOC.md": "LiArrowUpSquare",
   "React/Что такое мемоизация.md": "LiBrain",
   "React/React Router": "LiRoute",
-  "Redux": "⚛"
+  "Redux": "⚛",
+  "JavaScript/XMLHttpRequest.md": "LiUploadCloud"
 }

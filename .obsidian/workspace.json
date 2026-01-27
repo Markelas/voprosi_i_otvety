@@ -13,15 +13,58 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Redux/Как работает Redux.md",
+                "file": "TypeScript/Типы данных в TypeScript.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Типы данных в TypeScript"
+            }
+          },
+          {
+            "id": "187c93d59c8bcbd3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tasks/TypeScript/Утилитарные типы.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Как работает Redux"
+              "title": "Утилитарные типы"
+            }
+          },
+          {
+            "id": "af477dae063bcabb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Redux/RTK Query.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "RTK Query"
+            }
+          },
+          {
+            "id": "acf7ab2038c0061e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Architecture/Git Flow.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Git Flow"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -56,8 +99,8 @@
                 "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
+                "collapseAll": true,
+                "extraContext": true,
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
@@ -78,7 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 265.51103591918945
+    "width": 274.51103591918945
   },
   "right": {
     "id": "0961fb0f40ac5790",
@@ -181,37 +224,40 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "14c536d59e45f0fc",
+  "active": "acf7ab2038c0061e",
   "lastOpenFiles": [
+    "System/SDN (Software-Defined Networking).md",
+    "React/Плюсы и минусы React.md",
+    "Architecture/Git Flow.md",
+    "Architecture/CI CD.md",
+    "React/Паттерны React.md",
+    "Architecture/Module Federation.md",
+    "Architecture/Виды архитектур фронтенда.md",
+    "System/Версии HTTP (HTTP1.1, HTTP2, HTTP3).md",
+    "JavaScript/Виды сортировок.md",
+    "Architecture/Способы изоляции CSS.md",
+    "System/Уязвимости (XSS, MITM).md",
+    "JavaScript/Функции-генераторы.md",
+    "System/Загрузка ресурсов с разных доменов.md",
+    "JavaScript/Reflow и Repaint.md",
+    "JavaScript/Утечки памяти.md",
+    "React/React Fiber.md",
+    "JavaScript/Next.js.md",
+    "JavaScript/Виды рендеринга (SSG, ISR, SSR, CSR).md",
+    "React/Почему перешли от классовых к функциональным компонентам.md",
+    "React/Redux vs Context API.md",
+    "JavaScript/JavaScript движок.md",
+    "JavaScript/DOM и BOM/Shadow DOM и Light DOM.md",
+    "React/ErrorBoundary.md",
+    "Architecture/Другие паттерны проектирования.md",
+    "Architecture/Вопросы на собеседовании.md",
+    "Tasks/Promise/Ограничение параллельности promiseLimit.md",
+    "Производственные",
+    "Redux/_resources/0208b8e50e8d40eeb8d4db589b7c5869.png",
     "package-lock.json",
-    "JavaScript/_resources/Без названия.md",
-    "Redux/Как работает Redux.md",
     "Redux/_resources/Screenshot at Jan 15 19-04-47.png",
-    "Redux/Принципы Redux.md",
     "Redux/_resources",
-    "Redux/Flux и Redux.md",
-    "Redux/Без названия 2.md",
-    "Redux/Без названия 3.md",
-    "Redux/Без названия 1.md",
-    "Redux/Без названия.md",
-    "Tasks/Каррирование/Без ограничений числа аргументов.md",
     "Redux",
-    "Tasks/TypeScript/Продвинутые утилитарные типы.md",
-    "Tasks/TypeScript/Продвинутые задачи.md",
-    "Tasks/TypeScript/Утилитарные типы.md",
-    "TypeScript/Расширенные типы.md",
-    "TypeScript/Utility types.md",
-    "TypeScript/Встроенные дженерики.md",
-    "TypeScript/Enum.md",
-    "TypeScript/Alias, Union и Intersection.md",
-    "TypeScript/Что такое generic.md",
-    "Tasks/TypeScript/Классы, Promise и редьюсеры.md",
-    "Tasks/TypeScript/Базовые типы и дженерики.md",
-    "Tasks/TypeScript/README.md",
-    "TypeScript/Типизация React.md",
-    "TypeScript/Защитники типа.md",
-    "TypeScript/Обработка ошибок.md",
-    "TypeScript/Типы данных в TypeScript.md",
     "React/react compiler",
     "React/React Router",
     "Tasks/React/Кастомные хуки",
@@ -220,8 +266,6 @@
     "React/Хуки",
     "JavaScript/_resources/Screenshot at Nov 01 15-01-16.png",
     "Tasks/Бинарный поиск/Все задачи с решениями.js",
-    "Tasks/Рекурсия",
-    "Tasks/Каррирование",
     "JavaScript/_resources/Без заголовка.png"
   ]
 }
