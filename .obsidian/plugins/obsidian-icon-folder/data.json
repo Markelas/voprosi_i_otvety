@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiUploadCloud",
-      "⚛",
-      "LiRoute",
-      "LiBrain",
-      "LiArrowUpSquare"
+      "LiPaintbrush",
+      "LiGitBranch",
+      "📗",
+      "⚠",
+      "LiArrowRight"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -46,24 +46,6 @@
     "iconName": "LiScrollText",
     "iconColor": "#c2a824"
   },
-  "JavaScript/Рекурсия.md": "LiArrowLeftRight",
-  "JavaScript/Сборщик мусора.md": "LiTrash",
-  "JavaScript/Сложность алгоритмов.md": "LiArrowUp10",
-  "JavaScript/Унарные операторы.md": "LiPlus",
-  "JavaScript/Event Loop.md": "LiRecycle",
-  "JavaScript/Hoisting (поднятие).md": "LiMoveUp",
-  "JavaScript/async и await.md": "LiClock2",
-  "JavaScript/AbortController - отмена запроса.md": "LiShieldClose",
-  "JavaScript/Promise.md": "LiArrowUpRightFromCircle",
-  "JavaScript/Object.freeze, Object.seal и Object.preventExtensions.md": "LiLock",
-  "JavaScript/Map,  Set,  WeakMap,  WeakSet.md": "LiMap",
-  "JavaScript/Что такое стек и куча.md": "LiFileStack",
-  "JavaScript/Отличие Spread и Rest операторов, arguments.md": "LiUndoDot",
-  "JavaScript/Области видимости.md": "LiEye",
-  "JavaScript/Деструктуризация.md": "LiBrackets",
-  "JavaScript/Какие есть типы данных.md": "LiDatabase",
-  "JavaScript/Глубокое и поверхностное копирование.md": "LiCopyPlus",
-  "JavaScript/Варианты отмены обработчиков событий.md": "LiPanelLeftClose",
   "Architecture": {
     "iconName": "LiBrickWall",
     "iconColor": "#ff4d4d"
@@ -81,7 +63,6 @@
     "iconColor": "#5ec841"
   },
   "Tasks": "🧠",
-  "JavaScript/Class и Constructor.md": "LiBuilding",
   "JavaScript/DOM и BOM/DOM (Document Object Model).md": "LiHouse",
   "JavaScript/DOM и BOM/BOM (Browser Object Model).md": "LiGlobe",
   "JavaScript/DOM и BOM": "LiHouse",
@@ -90,7 +71,6 @@
   "JavaScript/DOM и BOM/Основные методы для работы с DOM.md": "LiExperiment",
   "JavaScript/DOM и BOM/События в DOM.md": "LiAlarmCheck",
   "JavaScript/DOM и BOM/Mutation Observer.md": "LiEye",
-  "JavaScript/Каррирование.md": "LiCarrot",
   "React/Методы жизненного цикла.md": "🌀",
   "React/React под капотом.md": "LiWrench",
   "React/Redux.md": "LiWarehouse",
@@ -104,5 +84,13 @@
   "React/Что такое мемоизация.md": "LiBrain",
   "React/React Router": "LiRoute",
   "Redux": "⚛",
-  "JavaScript/XMLHttpRequest.md": "LiUploadCloud"
+  "React/Почему React не реактивный.md": "LiMessageCircleWarning",
+  "React/Плюсы и минусы React.md": "LiPlus",
+  "React/Почему перешли от классовых к функциональным компонентам.md": "LiArrowRight",
+  "React/ErrorBoundary.md": "⚠",
+  "React/React vs Vue.md": "📗",
+  "React/Батчинг в React.md": "LiGitBranch",
+  "JavaScript/DOM и BOM/CRP (Critical Rendering Path).md": "⚠",
+  "JavaScript/DOM и BOM/Reflow и Repaint.md": "LiPaintbrush",
+  "JavaScript/Память и выполнение/Области видимости.md": "LiEye"
 }

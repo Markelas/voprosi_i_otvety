@@ -171,6 +171,30 @@ const s = Size.Small; // → компилируется в: const s = 0
 
 Используйте enum только когда нужен обратный маппинг или работаете с библиотеками, которые его требуют. В остальных случаях — union types.
 
+Иначе работает так:
+```ts
+enum Direction {
+  Up = 0,
+  Down = 1
+}
+
+const move = Direction.Up; 
+console.log(Direction[0]); // "Up" — обратное отображение работает
+
+// Код выше будет скомпилирован в код ниже
+
+var Direction;
+
+(function (Direction) {
+  Direction[Direction["Up"] = 0] = "Up";
+  Direction[Direction["Down"] = 1] = "Down";
+})(Direction || (Direction = {}));
+
+const move = Direction.Up;
+
+console.log(Direction[0]); // "Up"
+```
+
 ---
 
 
