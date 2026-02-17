@@ -27,12 +27,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System/Браузер и хранилище/Что происходит при вводе URL в браузере.md",
+                "file": "System/Разное/Технологии для реального времени.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Что происходит при вводе URL в браузере"
+              "title": "Технологии для реального времени"
+            }
+          },
+          {
+            "id": "ba3874fc3c9fee6b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "System/Разное/Socket.IO.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Socket.IO"
+            }
+          },
+          {
+            "id": "dc7f3dd14400d9aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JavaScript/Память и выполнение/Сборщик мусора.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Сборщик мусора"
             }
           }
         ],
@@ -68,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "miscro",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -196,36 +224,36 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4849b1abe1a4f923",
+  "active": "a95a9bad7e4486eb",
   "lastOpenFiles": [
-    "Redux/RTK Query.md",
-    "System/Браузер и хранилище/Что происходит при вводе URL в браузере.md",
-    "System/HTTP и сеть/Модель OSI.md",
-    "System/HTTP и сеть/Версии HTTP (HTTP1.1, HTTP2, HTTP3).md",
-    "React/Основы/Методы жизненного цикла.md",
-    "React/Оптимизация/React.memo.md",
-    "React/Оптимизация/Что такое lazy loading и React.lazy.md",
-    "React/Оптимизация/Что такое мемоизация.md",
-    "React/Оптимизация/Способы оптимизации рендеров.md",
-    "Architecture/SOLID принципы.md",
-    "Architecture/Виды архитектур фронтенда.md",
-    "System/Разное/getUserMedia и MediaRecorder — запись голоса в браузере.md",
-    "System/Разное/EventEmitter.md",
-    "Architecture/Module Federation.md",
-    "Architecture/UI и UX для фронтенд-разработчика.md",
-    "System/Разное/Производительность при большом JSON.md",
-    "CSS/Разное/Как работают каскадность и наследование в CSS?.md",
-    "CSS/Разное/Какая последняя версия CSS и что в ней особенного?.md",
-    "Redux/TanStack Query.md",
-    "Redux/TanStack Query и RTK Query.md",
-    "Redux/State management — виды и подвиды.md",
+    "System/Разное/Socket.IO.md",
+    "System/Разное/Технологии для реального времени.md",
+    "System/Браузер и хранилище/Web Workers.md",
+    "System/Браузер и хранилище/SharedWorker.md",
+    "System/Браузер и хранилище/Обмен данными между вкладками.md",
+    "System/Браузер и хранилище/Service Worker.md",
+    "System/Безопасность и авторизация/Подходы к аутентификации и авторизации.md",
+    "System/Безопасность и авторизация/Уязвимости (XSS, MITM).md",
+    "System/Безопасность и авторизация/Что такое CSP.md",
+    "JavaScript/DOM и BOM/Intersection Observer.md",
+    "JavaScript/DOM и BOM/Mutation Observer.md",
+    "JavaScript/Функции/Каррирование.md",
+    "JavaScript/Функции/Принципы функционального программирования.md",
+    "JavaScript/Память и выполнение/Сборщик мусора.md",
+    "JavaScript/Память и выполнение/JavaScript движок.md",
+    "JavaScript/Память и выполнение/Event Loop.md",
+    "JavaScript/Память и выполнение/Что такое стек и куча.md",
+    "JavaScript/Память и выполнение/Утечки памяти.md",
+    "JavaScript/Память и выполнение/Сложность алгоритмов.md",
+    "JavaScript/Память и выполнение/Области видимости.md",
+    "JavaScript/Память и выполнение/Виды сортировок.md",
+    "HTML/Медиа/Элементы audio и video.md",
+    "JavaScript/Promise и fetch/async и await.md",
+    "HTML/Документ и основы/Тег template.md",
+    "HTML/Специальные теги/Что такое тег template и зачем нужен.md",
+    "HTML/Формы и таблицы/Формы form, input, label, button.md",
     "React/Redux",
     "Redux/_resources/Pasted image 20260215142838.png",
-    "Redux/Redux.md",
-    "Производственные/Webpack.md",
-    "CSS/Разное/Что такое will-change и зачем нужен.md",
-    "CSS/Разное/Способы скрыть элемент в CSS.md",
-    "CSS/Методологии/Что такое BEM и зачем он нужен.md",
     "CSS/Методологии",
     "CSS/Единицы измерения",
     "CSS/Селекторы и специфичность",
