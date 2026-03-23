@@ -153,3 +153,26 @@ function myPromiseAny(promises) {
 - Не получает аргументов — в data приходит `undefined`
 - Не изменяет результат — возвращаемое значение игнорируется
 - Передаёт исходный результат дальше по цепочке
+
+
+Для тестов
+```js
+const promises = [
+    new Promise(resolve => setTimeout(() => resolve('быстро'), 100)),
+    new Promise(resolve => setTimeout(() => resolve('медленно'), 1000)),
+    new Promise(resolve => setTimeout(() => resolve('средне'), 500)),
+];
+
+const promises2 = [
+    Promise.resolve(10),
+    20,
+    Promise.resolve(30),
+    40
+];
+
+const promises3 = [
+    new Promise(resolve => setTimeout(() => resolve('первый'), 100)),
+    new Promise((resolve, reject) => setTimeout(() => reject(new Error('Ошибка во втором')), 200)),
+    new Promise(resolve => setTimeout(() => resolve('третий'), 300)),
+];
+```

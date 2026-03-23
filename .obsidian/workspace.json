@@ -4,67 +4,67 @@
     "type": "split",
     "children": [
       {
-        "id": "0c587fb34fbe11e4",
+        "id": "4366ec0724adb94f",
         "type": "tabs",
+        "dimension": 29.927536231884055,
         "children": [
           {
-            "id": "a8e76260574460ce",
+            "id": "d8b44e35b00527c8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Redux/RTK Query.md",
+                "file": "Tasks/Яндекс/2 технический этап/getNodes по дереву.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "RTK Query"
-            }
-          },
-          {
-            "id": "a95a9bad7e4486eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "System/Разное/Технологии для реального времени.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Технологии для реального времени"
-            }
-          },
-          {
-            "id": "ba3874fc3c9fee6b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "System/Разное/Socket.IO.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Socket.IO"
-            }
-          },
-          {
-            "id": "dc7f3dd14400d9aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JavaScript/Память и выполнение/Сборщик мусора.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Сборщик мусора"
+              "title": "getNodes по дереву"
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "88561de7d11ffed5",
+        "type": "tabs",
+        "dimension": 34.71014492753623,
+        "children": [
+          {
+            "id": "a7034b3164080f78",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tasks/Яндекс/Банкомат.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Банкомат"
+            }
+          }
+        ]
+      },
+      {
+        "id": "adf5cc918f309b7d",
+        "type": "tabs",
+        "dimension": 35.36231884057971,
+        "children": [
+          {
+            "id": "622355eed3ece387",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tasks/Яндекс/2 технический этап/Проверка вертикальной симметрии точек.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Проверка вертикальной симметрии точек"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "miscro",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -121,7 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274.51103591918945
+    "width": 328.51103591918945
   },
   "right": {
     "id": "0961fb0f40ac5790",
@@ -224,34 +224,37 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a95a9bad7e4486eb",
+  "active": "a7034b3164080f78",
   "lastOpenFiles": [
-    "System/Разное/Socket.IO.md",
-    "System/Разное/Технологии для реального времени.md",
-    "System/Браузер и хранилище/Web Workers.md",
-    "System/Браузер и хранилище/SharedWorker.md",
-    "System/Браузер и хранилище/Обмен данными между вкладками.md",
-    "System/Браузер и хранилище/Service Worker.md",
-    "System/Безопасность и авторизация/Подходы к аутентификации и авторизации.md",
-    "System/Безопасность и авторизация/Уязвимости (XSS, MITM).md",
-    "System/Безопасность и авторизация/Что такое CSP.md",
-    "JavaScript/DOM и BOM/Intersection Observer.md",
-    "JavaScript/DOM и BOM/Mutation Observer.md",
-    "JavaScript/Функции/Каррирование.md",
-    "JavaScript/Функции/Принципы функционального программирования.md",
-    "JavaScript/Память и выполнение/Сборщик мусора.md",
-    "JavaScript/Память и выполнение/JavaScript движок.md",
-    "JavaScript/Память и выполнение/Event Loop.md",
-    "JavaScript/Память и выполнение/Что такое стек и куча.md",
-    "JavaScript/Память и выполнение/Утечки памяти.md",
-    "JavaScript/Память и выполнение/Сложность алгоритмов.md",
-    "JavaScript/Память и выполнение/Области видимости.md",
-    "JavaScript/Память и выполнение/Виды сортировок.md",
-    "HTML/Медиа/Элементы audio и video.md",
-    "JavaScript/Promise и fetch/async и await.md",
-    "HTML/Документ и основы/Тег template.md",
-    "HTML/Специальные теги/Что такое тег template и зачем нужен.md",
-    "HTML/Формы и таблицы/Формы form, input, label, button.md",
+    "Tasks/Яндекс/2 технический этап/Приложение-чат.md",
+    "Tasks/Яндекс/2 технический этап/Проверка вертикальной симметрии точек.md",
+    "Tasks/Яндекс/2 технический этап/getNodes по дереву.md",
+    "Tasks/Яндекс/2 технический этап/digitPermutation сгруппировать числа с путем перестановки цифр их составляющих.md",
+    "Tasks/Яндекс/2 технический этап/createSmartFetch.md",
+    "Tasks/Яндекс/2 технический этап/Compress (как в Озон).md",
+    "Tasks/Яндекс/2 технический этап/bestBuyer.md",
+    "Tasks/Яндекс/2 технический этап/Маршруты.md",
+    "Tasks/Яндекс/2 технический этап/Генератор кодов.md",
+    "Tasks/Яндекс/2 технический этап/Вложенные папки и файлы.md",
+    "Tasks/Яндекс/2 технический этап/База данных с вложенными сообщениями.md",
+    "Tasks/Яндекс/2 технический этап/parallelLimit.md",
+    "Tasks/Яндекс/2 технический этап/throttle.md",
+    "Tasks/Яндекс/Банкомат.md",
+    "Tasks/Яндекс/Белки и вороны.md",
+    "Tasks/Яндекс/Буферизировать сообщения.md",
+    "Tasks/Яндекс/timeLimited Асинхронная функция fn и время.md",
+    "System/Безопасность и авторизация/Идентификация, аутентификация, авторизация.md",
+    "React/Под капотом/React Fiber.md",
+    "React/Под капотом/React Reconciliation.md",
+    "JavaScript/DOM и BOM/CRP (Critical Rendering Path).md",
+    "React/Под капотом/React Compiler.md",
+    "Tasks/Яндекс/isMonotonic.md",
+    "Tasks/Яндекс/Декоратор для функции с ограничиванием числа вызовов.md",
+    "Tasks/Полифилы/Array.some.md",
+    "Tasks/Яндекс/Фильтр для falsy значений.md",
+    "Tasks/Яндекс/2 технический этап",
+    "Tasks/Озон",
+    "Tasks/Яндекс",
     "React/Redux",
     "Redux/_resources/Pasted image 20260215142838.png",
     "CSS/Методологии",
@@ -260,9 +263,6 @@
     "CSS/Позиционирование",
     "CSS/Разное",
     "CSS/Layout и display",
-    "HTML/Разное",
-    "HTML/Ссылки и встраивание",
-    "HTML/Формы и таблицы",
     "System/_resources/Screenshot at Jan 31 18-38-57.png",
     "JavaScript/_resources/Screenshot at Jan 31 18-34-32.png",
     "React/_resourses/Screenshot at Jan 31 17-04-10.png",
