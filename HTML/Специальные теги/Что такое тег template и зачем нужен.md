@@ -50,3 +50,30 @@
 ## Кратко для ответа
 
 **`<template>`** — тег для хранения шаблонной разметки, которая не отображается и не обрабатывается при загрузке (инертное содержимое в DocumentFragment). Нужен, чтобы хранить шаблоны и клонировать их в DOM по требованию через JavaScript; до вставки клона картинки не грузятся, скрипты не выполняются. Удобен для повторяющихся блоков и динамического контента без фреймворка.
+
+```html
+<!-- Шаблон скрыт, его не видно на странице -->
+<template id="user-card">
+    <div class="card">
+        <h3>Имя пользователя</h3>
+        <p>Email: user@mail.com</p>
+        <button>Подробнее</button>
+    </div>
+</template>
+<!-- Основной контент страницы -->
+<div id="app">
+    <h1>Список пользователей</h1>
+    <button onclick="addUser()">Добавить пользователя</button>
+    <div id="users"></div>
+</div>
+<script>
+function addUser() {
+    // Берем шаблон
+    const template = document.getElementById('user-card');
+    // Клонируем его содержимое
+    const clone = template.content.cloneNode(true);
+    // Добавляем на страницу
+    document.getElementById('users').appendChild(clone);
+}
+</script>
+```

@@ -4,67 +4,104 @@
     "type": "split",
     "children": [
       {
-        "id": "4366ec0724adb94f",
+        "id": "88e27a362ba67aba",
         "type": "tabs",
-        "dimension": 29.927536231884055,
+        "dimension": 52.182347235693506,
         "children": [
           {
-            "id": "d8b44e35b00527c8",
+            "id": "2ed49a950d32246d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tasks/Яндекс/2 технический этап/getNodes по дереву.md",
+                "file": "System/HTTP и сеть/Что такое CORS.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "getNodes по дереву"
+              "title": "Что такое CORS"
+            }
+          },
+          {
+            "id": "53ef6730209f9165",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSS/Layout и display/Flexbox.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Flexbox"
+            }
+          },
+          {
+            "id": "6f2b235dcfd8ca3a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "System/Браузер и хранилище/Что происходит при вводе URL в браузере.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Что происходит при вводе URL в браузере"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "88561de7d11ffed5",
         "type": "tabs",
-        "dimension": 34.71014492753623,
+        "dimension": 47.8176527643065,
         "children": [
           {
-            "id": "a7034b3164080f78",
+            "id": "c241b002677730a5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tasks/Яндекс/Банкомат.md",
+                "file": "JavaScript/DOM и BOM/Основные методы для работы с DOM.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Банкомат"
+              "title": "Основные методы для работы с DOM"
             }
-          }
-        ]
-      },
-      {
-        "id": "adf5cc918f309b7d",
-        "type": "tabs",
-        "dimension": 35.36231884057971,
-        "children": [
+          },
           {
-            "id": "622355eed3ece387",
+            "id": "16c82f03afbad327",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tasks/Яндекс/2 технический этап/Проверка вертикальной симметрии точек.md",
+                "file": "System/Бэкенд/Брокер сообщений (Message Broker).md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Проверка вертикальной симметрии точек"
+              "title": "Брокер сообщений (Message Broker)"
+            }
+          },
+          {
+            "id": "3e0949bc717f3a74",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JavaScript/DOM и BOM/CRP (Critical Rendering Path).md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CRP (Critical Rendering Path)"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -84,7 +121,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Файловый менеджер"
@@ -97,7 +136,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": true,
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
                 "extraContext": true,
@@ -121,7 +160,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 328.51103591918945
+    "width": 230.51103591918945
   },
   "right": {
     "id": "0961fb0f40ac5790",
@@ -224,34 +263,36 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a7034b3164080f78",
+  "active": "4849b1abe1a4f923",
   "lastOpenFiles": [
-    "Tasks/Яндекс/2 технический этап/Приложение-чат.md",
-    "Tasks/Яндекс/2 технический этап/Проверка вертикальной симметрии точек.md",
-    "Tasks/Яндекс/2 технический этап/getNodes по дереву.md",
-    "Tasks/Яндекс/2 технический этап/digitPermutation сгруппировать числа с путем перестановки цифр их составляющих.md",
-    "Tasks/Яндекс/2 технический этап/createSmartFetch.md",
-    "Tasks/Яндекс/2 технический этап/Compress (как в Озон).md",
-    "Tasks/Яндекс/2 технический этап/bestBuyer.md",
-    "Tasks/Яндекс/2 технический этап/Маршруты.md",
-    "Tasks/Яндекс/2 технический этап/Генератор кодов.md",
-    "Tasks/Яндекс/2 технический этап/Вложенные папки и файлы.md",
-    "Tasks/Яндекс/2 технический этап/База данных с вложенными сообщениями.md",
-    "Tasks/Яндекс/2 технический этап/parallelLimit.md",
-    "Tasks/Яндекс/2 технический этап/throttle.md",
-    "Tasks/Яндекс/Банкомат.md",
-    "Tasks/Яндекс/Белки и вороны.md",
-    "Tasks/Яндекс/Буферизировать сообщения.md",
-    "Tasks/Яндекс/timeLimited Асинхронная функция fn и время.md",
-    "System/Безопасность и авторизация/Идентификация, аутентификация, авторизация.md",
-    "React/Под капотом/React Fiber.md",
-    "React/Под капотом/React Reconciliation.md",
     "JavaScript/DOM и BOM/CRP (Critical Rendering Path).md",
-    "React/Под капотом/React Compiler.md",
-    "Tasks/Яндекс/isMonotonic.md",
-    "Tasks/Яндекс/Декоратор для функции с ограничиванием числа вызовов.md",
-    "Tasks/Полифилы/Array.some.md",
-    "Tasks/Яндекс/Фильтр для falsy значений.md",
+    "CSS/Layout и display/Flexbox.md",
+    "CSS/Layout и display/CSS Grid.md",
+    "Architecture/Виды рендеринга (SSG, ISR, SSR, CSR).md",
+    "Architecture/Виды архитектур фронтенда.md",
+    "System/HTTP и сеть/Что такое CORS.md",
+    "System/Браузер и хранилище/Отличие WebView vs PWA.md",
+    "System/Браузер и хранилище/WebView.md",
+    "System/Браузер и хранилище/Web Workers.md",
+    "System/Браузер и хранилище/Service Worker/Service Worker.md",
+    "System/Браузер и хранилище/Service Worker/Популярные стратегии использования Service Worker-ов для PWA.md",
+    "System/Браузер и хранилище/Service Worker",
+    "System/Браузер и хранилище/Что может сломать рендер страницы.md",
+    "System/Разное/Метрики производительности (LCP, FID, CLS и др.).md",
+    "System/Разное/EventEmitter.md",
+    "System/Разное/Технологии для реального времени.md",
+    "System/Безопасность и авторизация/Что такое JWT токен.md",
+    "React/Под капотом/React Fiber.md",
+    "HTML/Специальные теги/Разница script, script async и script defer.md",
+    "HTML/Специальные теги/Что такое тег template и зачем нужен.md",
+    "HTML/Разное/Этапы рендеринга html страницы.md",
+    "JavaScript/Функции/Что такое call, apply, bind и this.md",
+    "JavaScript/Типы и объекты/Какие есть типы данных.md",
+    "JavaScript/Функции/Что такое замыкание.md",
+    "JavaScript/DOM и BOM/Варианты отмены обработчиков событий.md",
+    "System/Бэкенд/Брокер сообщений (Message Broker).md",
+    "Architecture/ООП простыми словами.md",
+    "Tasks/Аэрофлот",
     "Tasks/Яндекс/2 технический этап",
     "Tasks/Озон",
     "Tasks/Яндекс",
@@ -261,8 +302,6 @@
     "CSS/Единицы измерения",
     "CSS/Селекторы и специфичность",
     "CSS/Позиционирование",
-    "CSS/Разное",
-    "CSS/Layout и display",
     "System/_resources/Screenshot at Jan 31 18-38-57.png",
     "JavaScript/_resources/Screenshot at Jan 31 18-34-32.png",
     "React/_resourses/Screenshot at Jan 31 17-04-10.png",
