@@ -6,102 +6,87 @@
       {
         "id": "88e27a362ba67aba",
         "type": "tabs",
-        "dimension": 52.182347235693506,
+        "dimension": 64.22685409597673,
         "children": [
           {
-            "id": "2ed49a950d32246d",
+            "id": "e40bfa0a1769d20e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System/HTTP и сеть/Что такое CORS.md",
+                "file": "Architecture/Виды рендеринга (SSG, ISR, SSR, CSR).md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Что такое CORS"
+              "title": "Виды рендеринга (SSG, ISR, SSR, CSR)"
             }
           },
           {
-            "id": "53ef6730209f9165",
+            "id": "6e3df9e8a090e12d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSS/Layout и display/Flexbox.md",
+                "file": "React/Next.js/React.js и Next.js — разница.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Flexbox"
+              "title": "React.js и Next.js — разница"
             }
           },
           {
-            "id": "6f2b235dcfd8ca3a",
+            "id": "c5ad0ff331ad81fc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System/Браузер и хранилище/Что происходит при вводе URL в браузере.md",
+                "file": "Architecture/Паттерны и принципы проектирования/Паттерны проектирования.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Что происходит при вводе URL в браузере"
+              "title": "Паттерны проектирования"
+            }
+          },
+          {
+            "id": "af972875b18e3480",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Architecture/Микрофронтенды.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Микрофронтенды"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "88561de7d11ffed5",
         "type": "tabs",
-        "dimension": 47.8176527643065,
+        "dimension": 35.773145904023266,
         "children": [
           {
-            "id": "c241b002677730a5",
+            "id": "6547b5d68d2d73c3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/DOM и BOM/Основные методы для работы с DOM.md",
+                "file": "System/Разное/Метрики производительности (LCP, FID, CLS и др.).md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Основные методы для работы с DOM"
-            }
-          },
-          {
-            "id": "16c82f03afbad327",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "System/Бэкенд/Брокер сообщений (Message Broker).md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Брокер сообщений (Message Broker)"
-            }
-          },
-          {
-            "id": "3e0949bc717f3a74",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JavaScript/DOM и BOM/CRP (Critical Rendering Path).md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "CRP (Critical Rendering Path)"
+              "title": "Метрики производительности (LCP, FID, CLS и др.)"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -135,7 +120,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "рендер",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -263,35 +248,35 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4849b1abe1a4f923",
+  "active": "af972875b18e3480",
   "lastOpenFiles": [
-    "JavaScript/DOM и BOM/CRP (Critical Rendering Path).md",
-    "CSS/Layout и display/Flexbox.md",
-    "CSS/Layout и display/CSS Grid.md",
     "Architecture/Виды рендеринга (SSG, ISR, SSR, CSR).md",
-    "Architecture/Виды архитектур фронтенда.md",
-    "System/HTTP и сеть/Что такое CORS.md",
-    "System/Браузер и хранилище/Отличие WebView vs PWA.md",
-    "System/Браузер и хранилище/WebView.md",
-    "System/Браузер и хранилище/Web Workers.md",
-    "System/Браузер и хранилище/Service Worker/Service Worker.md",
-    "System/Браузер и хранилище/Service Worker/Популярные стратегии использования Service Worker-ов для PWA.md",
-    "System/Браузер и хранилище/Service Worker",
-    "System/Браузер и хранилище/Что может сломать рендер страницы.md",
-    "System/Разное/Метрики производительности (LCP, FID, CLS и др.).md",
-    "System/Разное/EventEmitter.md",
+    "React/Next.js/React.js и Next.js — разница.md",
+    "Architecture/Паттерны и принципы проектирования/Паттерны проектирования.md",
+    "Architecture/Паттерны и принципы проектирования",
+    "Architecture/Паттерны и принципы проектирования/Принципы проектирования.md",
+    "React/Next.js/Next.js.md",
+    "React/Паттерны и сравнения/Почему React не реактивный.md",
+    "CSS/Позиционирование/Разница между relative, absolute, fixed, sticky.md",
+    "React/Основы/Методы жизненного цикла.md",
     "System/Разное/Технологии для реального времени.md",
-    "System/Безопасность и авторизация/Что такое JWT токен.md",
+    "System/HTTP и сеть/SSL и TLS.md",
+    "System/Браузер и хранилище/Кэширование в браузере.md",
+    "System/Безопасность и авторизация/Уязвимости (XSS, MITM).md",
+    "React/Под капотом/Батчинг в React.md",
+    "Производственные/Docker.md",
+    "TypeScript/Разница между unknown, any, void и never.md",
+    "System/Браузер и хранилище/Service Worker/Service Worker.md",
+    "System/Браузер и хранилище/Обмен данными между вкладками.md",
+    "System/Браузер и хранилище/LocalStorage, sessionStorage, cookie, IndexedDB.md",
     "React/Под капотом/React Fiber.md",
-    "HTML/Специальные теги/Разница script, script async и script defer.md",
-    "HTML/Специальные теги/Что такое тег template и зачем нужен.md",
-    "HTML/Разное/Этапы рендеринга html страницы.md",
-    "JavaScript/Функции/Что такое call, apply, bind и this.md",
-    "JavaScript/Типы и объекты/Какие есть типы данных.md",
-    "JavaScript/Функции/Что такое замыкание.md",
-    "JavaScript/DOM и BOM/Варианты отмены обработчиков событий.md",
-    "System/Бэкенд/Брокер сообщений (Message Broker).md",
-    "Architecture/ООП простыми словами.md",
+    "JavaScript/Promise и fetch/Event Loop.md",
+    "JavaScript/Promise и fetch/AbortController - отмена запроса.md",
+    "React/Хуки/useEffect и useLayoutEffect.md",
+    "Tasks/Promise/Полифилы Promise.md",
+    "JavaScript/Типы и объекты/Proxy.md",
+    "JavaScript/DOM и BOM/Shadow DOM и Light DOM.md",
+    "System/Браузер и хранилище/Service Worker",
     "Tasks/Аэрофлот",
     "Tasks/Яндекс/2 технический этап",
     "Tasks/Озон",
@@ -301,7 +286,6 @@
     "CSS/Методологии",
     "CSS/Единицы измерения",
     "CSS/Селекторы и специфичность",
-    "CSS/Позиционирование",
     "System/_resources/Screenshot at Jan 31 18-38-57.png",
     "JavaScript/_resources/Screenshot at Jan 31 18-34-32.png",
     "React/_resourses/Screenshot at Jan 31 17-04-10.png",

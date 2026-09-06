@@ -94,6 +94,45 @@ function ScrollComponent() {
 
 ---
 
+Эталонное решение:
+```js
+function useThrottle(value, delay) {
+    const [throttledValue, setThrottledValue] = useState(value);
+    const lastRan = useRef(Date.now());
+    const timeoutRef = useRef(null);
+
+    useEffect(() => {
+        const now = Date.now();
+        const timeSinceLastRun = now - lastRan.current;
+
+        // Если прошло достаточно времени — выполняем СРАЗУ
+        if (timeSinceLastRun >= delay) {
+            setThrottledValue(value);
+            lastRan.current = now;
+            return; // Не ставим таймер
+        }
+
+        // Иначе ставим таймер на оставшееся время
+        if (timeoutRef.current) {
+            clearTimeout(timeoutRef.current);
+        }
+
+        timeoutRef.current = setTimeout(() => {
+            setThrottledValue(value);
+            lastRan.current = Date.now();
+            timeoutRef.current = null;
+        }, delay - timeSinceLastRun);
+
+        return () => {
+            if (timeoutRef.current) {
+                clearTimeout(timeoutRef.current);
+            }
+        };
+    }, [value, delay]);
+
+    return throttledValue;
+}
+```
 ### Альтернативный вариант (для функций):
 
 Если нужно троттлить функцию, а не значение:

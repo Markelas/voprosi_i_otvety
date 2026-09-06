@@ -23,8 +23,10 @@ const controller = new AbortController();
 
 ```js
 const controller = new AbortController();
-const { signal } = controller;
+const { signal } = controller;  // signal — это "кабель", по которому идёт сигнал отмены
 
+// 1️⃣ При создании запроса мы передаём signal,
+//    чтобы fetch "слушал" этот кабель
 fetch('https://api.example.com/data', { signal })
   .then(res => res.json())
   .catch(err => {
@@ -33,7 +35,10 @@ fetch('https://api.example.com/data', { signal })
     }
   });
 
-// Отменить через 100мс
+// 2️⃣ При отмене мы вызываем abort() на самом controller,
+//    а не на signal. Controller генерирует сигнал отмены,
+//    который автоматически доходит до всех fetch'ей,
+//    использующих этот signal.
 setTimeout(() => controller.abort(), 100);
 ```
 
